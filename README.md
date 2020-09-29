@@ -1,5 +1,5 @@
 ## SDSS Computing Studies Python Assignment
-### Assignment #004b Logical Operators (Total Marks xx)
+### Assignment #004b Logical Operators (Total Marks 14)
 
 Objectives:
 * Evaluate Boolean Logic Statements
@@ -13,12 +13,15 @@ Open up the file called example3.py to see how brackets and order of operations 
 
 ### 4 Tasks
 ### 3 Problems
-### 15 marks
+### 14 marks
 
 ##### Task 1
 Open the file called task1.py
+The Earth maintains an orbit where it's closest distance to \
+the sun is 0.9759 AU and it's furthest distance to the sun is \
+1.016 AU. \
 Ask the user to enter a number. \
-Tell them if the number is between 1 and 10.\
+Tell them if the number is between 0.9759 and 1.016.\
 (2 points) 
 
 ##### Task 2
