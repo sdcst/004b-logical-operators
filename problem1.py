@@ -15,7 +15,7 @@ xx is not frue
 
 example:
 Enter a number: 48
-48 is frue.
+48 is not frue
 """
 
 #! python3
