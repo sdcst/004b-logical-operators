@@ -17,15 +17,4 @@ else:
   print("At least one statement is false")
 print("=======================================")
 
-print("\n\n\n")
 
-print("=======================================")
-print(" Example 2: or statements             ")
-a = 5
-b = 10
-c = 2
-if a==5 or b==10 or c==0:
-  print("At least one statement is true")
-else:
-  print("All statements must be false")
-print("=======================================")
