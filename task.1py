@@ -14,4 +14,13 @@ a number (float)
 Outputs:
 That is within normal Earth orbit.
 That is not within normal Earth orbit.
+
+
+Example:
+Enter the distance of the Earth in AU: 9.4
+That is not within normal Earth orbit.
+
+Enter the distance of the Earth in AU: 1.011
+That is within normal Earth orbit.
+
 """

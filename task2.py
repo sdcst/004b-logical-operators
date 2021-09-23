@@ -27,4 +27,7 @@ xx is only a perfect cube.
 Example:
 Enter a number: 8
 8 is only a perfect cube.
+
+Enter a number: 64
+64 is both a perfect square and a perfect cube.
 """

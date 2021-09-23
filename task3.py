@@ -14,4 +14,13 @@ xx is not a positive integer
 example:
 Enter a number: -3
 -3 is not a positive integer
+
+Enter a number: 2.4
+2.4 is not a positive integer
+
+Enter a number: 5
+5 is a positive integer
+
+Enter a number: 4.0
+4.0 is a positive integer
 """

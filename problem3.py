@@ -4,6 +4,10 @@ Problem 3
 Pythagorean triples are sets of 3 integers such that the squares of the 2 smaller numbers is equal to the square of the third.
 Ask the user to enter in 3 numbers, in any order.  Order the numbers from smallest to largest.
 Determine if they form a Pythagorean triple. 
+
+You can use max() to help you find the largest number
+You can use min() to help you find the smallest number
+How can we find the middle number though?
 (2 marks)
 
 Inputs:
