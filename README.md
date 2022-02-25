@@ -11,6 +11,7 @@ Open up the file called example1.py to see how "and" operators work.
 Open up the file called example2.py to see how "or" operators work.
 Open up the file called example3.py to see how brackets and order of operations work
 
+### 3 Debugging programs
 ### 4 Tasks
 ### 3 Problems
 ### 14 marks
